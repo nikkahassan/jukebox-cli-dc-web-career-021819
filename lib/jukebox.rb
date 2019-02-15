@@ -24,3 +24,6 @@ def list(songs)
   puts song 
   }
 end
+
+def play(songs)
+  puts 
